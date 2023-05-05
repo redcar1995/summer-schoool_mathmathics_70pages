@@ -1,0 +1,12 @@
+let celsius = document.getElementById("celsius");
+let fahrenheit = document.getElementById("fahrenheit");
+
+function celToFar(){
+    let output = parseFloat(meter.value) * 3.28084;
+    feet.value = parseFloat(output.toFixed(2));
+}
+
+function farToCel(){
+    let output = parseFloat(feet.value) / 3.28084;
+    meter.value = parseFloat(output.toFixed(2));
+}
