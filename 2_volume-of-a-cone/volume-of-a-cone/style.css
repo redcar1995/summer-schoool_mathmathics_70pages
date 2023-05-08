@@ -184,7 +184,7 @@ body {
 
     margin-left: 22%;
 
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 
 }
 
@@ -203,6 +203,8 @@ body {
     padding: 25px 28px 0;
 
     background-color: #A2D1F2;
+    
+    text-align: justify;
 
 }
 
